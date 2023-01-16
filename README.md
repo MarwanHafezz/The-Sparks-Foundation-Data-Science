@@ -6,3 +6,6 @@
 # TASK-2
 ## To Explore Unsupervised Machine Learning
 ### From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+# TASK-3
+## Exploratory Data Analysis - Retail Store
+### Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’ This task is about Exploratory Data Analysis - Retail where the task focuses on a business manager who will try to find out weak areas where he can work to make more profit.
